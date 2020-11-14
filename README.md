@@ -4,9 +4,9 @@ By Emil Joseph
 
 ## Attributions
 
-All images from [unsplash](https://unsplash.com/s/photos/cannabis-thc-cbd).
-Code reviewed, and adviced by Patrick Bello and Nhat Nguyen
-Instructor's starter code and in-class examples
+All images from [unsplash](https://unsplash.com/s/photos/cannabis-thc-cbd).  
+Code reviewed, and adviced by Patrick Bello and Nhat Nguyen.  
+Instructor's starter code and in-class examples.
 
 ## Links
 
