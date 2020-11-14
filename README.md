@@ -1,4 +1,4 @@
-# CPNT262 - Assignment 4
+# CPNT262 - Assignment 4: Express Gallery Website
 
 By Emil Joseph
 
