@@ -1,4 +1,4 @@
-# CPNT260 - Assignment 4
+# CPNT262 - Assignment 4
 
 By Emil Joseph
 
@@ -15,9 +15,9 @@ Instructor's starter code and in-class examples
 
 ## Project overview
 
--Three page website rendered with ejs
--Gallery items served using `fetch()`
--Deployment to [Heroku](https://www.heroku.com/).
+- Three page website rendered with ejs
+- Gallery items served using `fetch()`
+- Deployment to [Heroku](https://www.heroku.com/).
 
 ## Comments
 
