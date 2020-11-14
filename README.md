@@ -10,7 +10,7 @@ Instructor's starter code and in-class examples
 
 ## Links
 
-[Github repo]().
+[Github repo]().  
 [Heroku link]().
 
 ## Project overview
