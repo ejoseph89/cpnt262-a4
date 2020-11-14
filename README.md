@@ -10,8 +10,8 @@ Instructor's starter code and in-class examples.
 
 ## Links
 
-[Github repo]().  
-[Heroku link]().
+[Github repo](https://github.com/ejoseph89/cpnt262-a4).  
+[Heroku link](https://cpnt262-a4-ej.herokuapp.com/).
 
 ## Project overview
 
